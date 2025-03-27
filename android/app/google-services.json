@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201944752139",
+    "project_id": "fika-3407f",
+    "storage_bucket": "fika-3407f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201944752139:android:95b18e3e2cf40c5790a70e",
+        "android_client_info": {
+          "package_name": "com.example.fika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJG_MQVhL0pCAF_rZFrBdDzypaEYHNH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
