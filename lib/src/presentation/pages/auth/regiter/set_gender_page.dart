@@ -1,6 +1,5 @@
 import 'package:fika/src/data/models/register_model.dart';
 import 'package:fika/src/presentation/controllers/auth/auth_controller.dart';
-import 'package:fika/src/presentation/pages/auth/regiter/set_birthdate_page.dart';
 import 'package:fika/src/presentation/widgets/custom_snack_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

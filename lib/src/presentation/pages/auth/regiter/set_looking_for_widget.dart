@@ -1,4 +1,3 @@
-import 'package:fika/src/presentation/pages/auth/regiter/set_max_distance_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

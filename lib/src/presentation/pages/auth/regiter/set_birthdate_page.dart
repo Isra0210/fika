@@ -1,12 +1,10 @@
 import 'package:fika/src/presentation/controllers/auth/auth_controller.dart';
-import 'package:fika/src/presentation/pages/auth/regiter/set_looking_for_widget.dart';
 import 'package:fika/src/presentation/widgets/custom_text_field.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
-import '../../../../data/storage/storage_service.dart';
 import '../../../widgets/custom_snack_bar.dart';
 import 'widgets/register_app_bar.dart';
 

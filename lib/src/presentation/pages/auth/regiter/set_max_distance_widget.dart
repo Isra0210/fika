@@ -1,5 +1,4 @@
 import 'package:fika/src/presentation/controllers/auth/auth_controller.dart';
-import 'package:fika/src/presentation/pages/auth/regiter/set_age_range_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

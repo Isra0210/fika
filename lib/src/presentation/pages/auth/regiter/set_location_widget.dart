@@ -1,5 +1,4 @@
 import 'package:fika/src/presentation/controllers/auth/auth_controller.dart';
-import 'package:fika/src/presentation/pages/auth/regiter/set_choice_setup_app.dart';
 import 'package:fika/src/presentation/utils/icons/custom_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
